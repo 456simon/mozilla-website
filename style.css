@@ -7,3 +7,7 @@ p {
 li,h1 {
   color: yellow;
 }
+
+html {
+  background-color: #00539F;
+}
