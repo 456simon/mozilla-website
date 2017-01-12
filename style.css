@@ -29,3 +29,8 @@ h1 {
 .quote {
 	color:blue;
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+}
