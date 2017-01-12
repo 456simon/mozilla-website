@@ -1,3 +1,3 @@
 document.querySelector('img').onclick = function() {
-    alert('Ouch! Stop poking me!');
+    alert('Welcome to HKS');
 }
